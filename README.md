@@ -45,8 +45,9 @@ Gsap:Learn about gsap.
 Since it is a clone project,I will also encourage you to clone it ,it will help you to learn about gsap,locomotive,js and css.
 
 ## Watch the full video on the youtube
-<a href="https://youtu.be/792C52vl8m8?feature=shared" target= "-blank">
-  
+
+<a href="https://youtu.be/792C52vl8m8?feature=shared" target="-blank">
+
 ## Contact
 
 If you have any questions or feedback, feel free to contact me:
