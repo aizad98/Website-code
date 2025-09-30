@@ -1,4 +1,4 @@
-## Portfolio website
+## Code of an award winning website
 ## Introduction 
 This project is the clone of an award winning website, that was built  with the help of a youtube video.This website has an amazing UX/UI that help it becoming an award wining website .
 it help me to understand the importance of a good UI.
